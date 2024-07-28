@@ -1,4 +1,4 @@
-This Python programs takes a user input in the form of a password adn checks if the password they have used is secure.
+This Python program takes a user input in the form of a password and checks if the password they have used is secure.
 
 The program then offers the user to create a new, and more secure password if the password is not secure enough. 
 
